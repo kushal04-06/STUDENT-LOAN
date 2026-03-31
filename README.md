@@ -1,4 +1,4 @@
-# 💰 Loan Prediction & Dashboard System
+# 💰 Loan Prediction
 
 A modern, interactive web application that helps users **predict loan eligibility**, analyze financial data, and manage loan-related insights through a visually appealing dashboard.
 
