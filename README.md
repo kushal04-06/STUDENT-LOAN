@@ -7,7 +7,7 @@ A modern, interactive web application that helps users **predict loan eligibilit
 ## 🚀 Live Demo
 
 🔗 Add your live link here after deployment:
-👉  http://loanbuddy.com/
+👉   https://kushal04-06.github.io/STUDENT-LOAN/
 
 ---
 
