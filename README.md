@@ -144,12 +144,6 @@ You can deploy your project using:
 
 ---
 
-## 👨‍💻 Author
-
-**Your Name**
-
-* GitHub: https://github.com/yourusername
-* Email: [your@email.com](mailto:your@email.com)
 
 ---
 
