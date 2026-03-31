@@ -7,7 +7,7 @@ A modern, interactive web application that helps users **predict loan eligibilit
 ## 🚀 Live Demo
 
 🔗 Add your live link here after deployment:
-👉 https://your-live-link.com
+👉  http://loanbuddy.com/
 
 ---
 
